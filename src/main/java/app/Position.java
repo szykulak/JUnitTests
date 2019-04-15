@@ -1,0 +1,10 @@
+package app;
+
+public enum Position {
+
+    TRAINING_MANAGER, HR_ANALYST, MARKETING_RESEARCH_SPECIALIST,
+    MARKETING_CONSULTANT, JAVA_DEVELOPER, CPP_DEVELOPER;
+
+    Position() {
+    }
+}
